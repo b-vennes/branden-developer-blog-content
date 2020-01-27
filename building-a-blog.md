@@ -1,6 +1,4 @@
-# Building a Developer Blog
-
-I will be giving a full walkthrough of how I built this developer blog, including the tools I used, the thought process behind my design decisions, and some implementation decisions.
+In this article, I will be giving a full walkthrough of how I built this developer blog, including the tools I used, the thought process behind my design decisions, and some implementation decisions.
 
 ## Design
 
