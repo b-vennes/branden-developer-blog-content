@@ -33,23 +33,26 @@
 
 B.S. Computer Science and Mathematics with 3.8 GPA
 
-## Techical Skills
+## Technical Skills
 
-- [Angular](https://angular.io/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Angular Material](https://material.angular.io/)
-- [Bootstrap](https://getbootstrap.com/)
-- [RxJS](https://rxjs-dev.firebaseapp.com/)
-- [Jasmine](https://jasmine.github.io/)
-- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) and [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [Moq](https://github.com/moq/moq) and [NSubstitute](https://nsubstitute.github.io/)
-- [gRPC](https://grpc.io/)
-- [Rust](https://www.rust-lang.org/)
-- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/default.aspx)
-- [MongoDB](https://www.mongodb.com/)
-- [Redis](https://redis.io/)
+- Clientside Development
+  - [Angular](https://angular.io/)
+  - [TypeScript](https://www.typescriptlang.org/)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Angular Material](https://material.angular.io/)
+  - [Bootstrap](https://getbootstrap.com/)
+  - [RxJS](https://rxjs-dev.firebaseapp.com/)
+  - [Jasmine](https://jasmine.github.io/)
+- Serverside Development
+  - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) and [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
+  - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [Moq](https://github.com/moq/moq) and [NSubstitute](https://nsubstitute.github.io/)
+  - [gRPC](https://grpc.io/)
+  - [Rust](https://www.rust-lang.org/)
+- Databases
+  - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/default.aspx)
+  - [MongoDB](https://www.mongodb.com/)
+  - [Redis](https://redis.io/)
 - [Kafka](https://kafka.apache.org/)
 - [Docker](https://www.docker.com/)
 
@@ -57,3 +60,4 @@ B.S. Computer Science and Mathematics with 3.8 GPA
 
 - Excellent collaborator
 - Passion for learning about software development, engineering, and architecture
+- Experienced dog owner 🐶
